@@ -30,7 +30,6 @@
 
 - 종료 오퍼레이션은 Stream 을 리턴하지 않고 처리를 완료시킨 후 다른 타입으로 리턴한다. 예로 (collect, allMatch, count, forEach, min, max 등이 있다.)
 
-
 *** 
 
 ## Optional
