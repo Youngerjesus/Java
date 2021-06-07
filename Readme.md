@@ -31,6 +31,40 @@
 - 종료 오퍼레이션은 Stream 을 리턴하지 않고 처리를 완료시킨 후 다른 타입으로 리턴한다. 예로 (collect, allMatch, count, forEach, min, max 등이 있다.)
 
 
+#### Non-Terminal Operations
+
+- filter()
+
+- map()
+
+- distinct()
+
+- sorted()
+
+- peek()
+
+#### Terminal Operation
+
+- anyMatch()
+
+- allMatch()
+
+- collect()
+
+- count()
+
+- findFirst()
+
+- min()
+
+- max()
+
+- sum()
+
+- average()
+
+[Stream API 의 15가지 실용적인 예제](./docs/stream-api.md)
+
 *** 
 
 ## Optional
