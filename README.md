@@ -26,5 +26,7 @@ Java Version 별로 정리한 레파지토리 입니다.
 
 - [Predicate Not](docs/java11/predicate-not.md)
 
-- [Local-Variable Syntax for Lambda](docs/java11/)
+- [Local-Variable Syntax for Lambda](docs/java11/local-variable-syntax-for-lambda.md)
+
+- [HTTP Client](docs/java11/http-client.md)
 ***
