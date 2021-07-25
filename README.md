@@ -25,4 +25,6 @@ Java Version 별로 정리한 레파지토리 입니다.
 - [Collection to an Array](docs/java11/collection.md)
 
 - [Predicate Not](docs/java11/predicate-not.md)
+
+- [Local-Variable Syntax for Lambda](docs/java11/)
 ***
